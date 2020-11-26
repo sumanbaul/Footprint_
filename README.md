@@ -1,4 +1,4 @@
-# footprint_flutter
+# Footprint - The lifestyle app
 
 A new Flutter project.
 
